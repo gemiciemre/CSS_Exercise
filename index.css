@@ -1,0 +1,15 @@
+p{
+    color: #e63946;
+}
+.h2{
+    color: #457b9d;
+}
+.h3{
+    color: #1d3557;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}
+#imagePart{
+    background-color: #f1faee;
+}
